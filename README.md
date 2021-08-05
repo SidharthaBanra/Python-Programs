@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SidharthaBanra
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Many Things About Software Development
